@@ -1,11 +1,11 @@
-﻿3203,com.google.code.maven-svn-revision-number-plugin-maven-svn-revision-number-plugin,81,125,Subversion Tools,0,null,1
+1047,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.registry,74,42,Eclipse Plugins,0,null,1
+1048,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.sequence,74,42,Eclipse Plugins,0,null,1
+607,org.jboss.spec.javax.enterprise.concurrent-jboss-concurrency-api_1.0_spec,73,26,Concurrency Libraries,0,null,1
+1,junit-junit,1,1,TF,0,null,1
+3203,com.google.code.maven-svn-revision-number-plugin-maven-svn-revision-number-plugin,81,125,Subversion Tools,0,null,1
 3204,com.google.code.maven-svn-revision-number-plugin-svn-revision-number-maven-plugin,81,125,Subversion Tools,0,null,1
 2429,it.tidalwave.thesefoolishthings-it-tidalwave-util-logging-singlelinelogformatter,80,96,NetBeans Modules,0,null,1
 1046,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.proxyservice,78,42,Eclipse Plugins,0,null,1
 3008,com.qualinsight.plugins.sonarqube-qualinsight-plugins-sonarqube-wtf-internal,76,121,Sonar Plugins,0,null,1
 1045,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.libraries,75,42,Eclipse Plugins,0,null,1
 3001,com.buschmais.jqassistant.examples-jqassistant.examples.sonar.ruleextension,75,121,Sonar Plugins,0,null,1
-1047,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.registry,74,42,Eclipse Plugins,0,null,1
-1048,org.wso2.carbonstudio-org.wso2.carbonstudio.eclipse.capp.artifact.sequence,74,42,Eclipse Plugins,0,null,1
-607,org.jboss.spec.javax.enterprise.concurrent-jboss-concurrency-api_1.0_spec,73,26,Concurrency Libraries,0,null,1
-1,junit-junit,1,1,TF,0,null,1
